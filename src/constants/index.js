@@ -1,7 +1,7 @@
 import project1 from "../assets/projects/project-1.jpg";
-import project2 from "../assets/projects/project-2.jpg";
-import project3 from "../assets/projects/project-3.jpg";
-import project4 from "../assets/projects/project-4.jpg";
+// import project2 from "../assets/projects/project-2.jpg";
+// import project3 from "../assets/projects/project-3.jpg";
+// import project4 from "../assets/projects/project-4.jpg";
 
 export const HERO_CONTENT = `I am a passionate full stack developer with a knack for crafting robust and scalable web applications. With 5 years of hands-on experience, I have honed my skills in front-end technologies like React and Next.js, as well as back-end technologies like Node.js, MySQL, PostgreSQL, and MongoDB. My goal is to leverage my expertise to create innovative solutions that drive business growth and deliver exceptional user experiences.`;
 
@@ -9,64 +9,71 @@ export const ABOUT_TEXT = `I am a dedicated and versatile full stack developer w
 
 export const EXPERIENCES = [
   {
-    year: "2023 - Present",
-    role: "Senior Full Stack Developer",
-    company: "Google Inc.",
-    description: `Led a team in developing and maintaining web applications using JavaScript, React.js, and Node.js. Implemented RESTful APIs and integrated with MongoDB databases. Collaborated with stakeholders to define project requirements and timelines.`,
-    technologies: ["Javascript", "React.js", "Next.js", "mongoDB"],
+    year: "Feb 2023 - Present",
+    role: "Assistant Manager",
+    company: "Adani Infra Ltd.",
+    description: ``,
+    technologies: ["Project Management", "Data Visualization", "Data-Driven Decision Making"],
   },
   {
-    year: "2022 - 2023",
-    role: "Frontend Developer",
-    company: "Adobe",
-    description: `Designed and developed user interfaces for web applications using Next.js and React. Worked closely with backend developers to integrate frontend components with Node.js APIs. Implemented responsive designs and optimized frontend performance.`,
-    technologies: ["HTML", "CSS", "Vue.js", "mySQL"],
+    year: "Aug 2022 - Jan 2023",
+    role: "GET",
+    company: "Adani Infra Ltd.",
+    description: ``,
+    technologies: ["Analytical Skills", "Microsoft PowerBI", "Engineering Philosophies"],
   },
   {
-    year: "2021 - 2022",
-    role: "Full Stack Developer",
-    company: "Facebook",
-    description: `Developed and maintained web applications using JavaScript, React.js, and Node.js. Designed and implemented RESTful APIs for data communication. Collaborated with cross-functional teams to deliver high-quality software products on schedule.`,
-    technologies: ["Python", "Svelte", "Three.js", "Postgres"],
+    year: "Dec 2021 - March 2022",
+    role: "Intern",
+    company: "Adani Green Energy Ltd.",
+    description: `Gained exposure to renewable energy through a hybrid wind and solar project internship. Learned about the integration and engineering aspects of combining wind and solar power generation. Supported the engineering team in project development tasks (e.g., data analysis, feasibility studies). Utilized SketchUp for shadow analysis and PVsyst to calculate potential power generation losses, contributing to project optimization. Analyzed wind and solar resource data to assess project viability. (If applicable) Collaborated with colleagues in solar and wind operation departments to gain insights into real-world challenges. Gained proficiency in creating Bill of Quantities (BOQs) and interpreting single line diagrams, supporting project development.`,
+    technologies: [ "Microsoft Excel", "Feasibility Studies", "PVsyst", "MATLAB", "Communication"],
   },
   {
-    year: "2020 - 2021",
-    role: "Software Engineer",
-    company: "Paypal",
-    description: `Contributed to the development of web applications using JavaScript, React.js, and Node.js. Managed databases and implemented data storage solutions using MongoDB. Worked closely with product managers to prioritize features and enhancements.`,
-    technologies: ["Ruby", "Rails", "PHP", "Sqlite"],
+    year: "Jul 2021",
+    role: "Project Manager Intern",
+    company: "ClearExam",
+    description: `Managed projects directly under the guidance of the company director. Gained experience in project planning, scheduling, resource allocation, and execution. Developed strong communication and collaboration skills through close interaction with the director and other team members.`,
+    technologies: ["Project Management", "Communication", "Leadership"],
+  },
+  {
+    year: "March 2019",
+    role: "Intern",
+    company: "L & T Switchgear Limited",
+    description: ``,
+    technologies: [],
   },
 ];
 
 export const PROJECTS = [
   {
-    title: "E-Commerce Website",
+    title: "Asset Health Analytics",
     image: project1,
     description:
-      "A fully functional e-commerce website with features like product listing, shopping cart, and user authentication.",
-    technologies: ["HTML", "CSS", "React", "Node.js", "MongoDB"],
+      "For reducing the down time and the maintenance cost, predictive analysis came into the picture. So, using IOT platform, Vibration Analysis, AI & ML we can predict our asset's health, life cycle and many more things which can help to improve maintenance time and cost for the same.",
+    technologies: ["AI & ML", "MATLAB"],
   },
-  {
-    title: "Task Management App",
-    image: project2,
-    description:
-      "An application for managing tasks and projects, with features such as task creation, assignment, and progress tracking.",
-    technologies: ["HTML", "CSS", "Angular", "Firebase"],
-  },
-  {
-    title: "Portfolio Website",
-    image: project3,
-    description:
-      "A personal portfolio website showcasing projects, skills, and contact information.",
-    technologies: ["HTML", "CSS", "React", "Bootstrap"],
-  },
-  {
-    title: "Blogging Platform",
-    image: project4,
-    description:
-      "A platform for creating and publishing blog posts, with features like rich text editing, commenting, and user profiles.",
-    technologies: ["HTML", "CSS", "Vue.js", "Express", "mySQL"],
-  },
+  // {
+  //   title: "Task Management App",
+  //   image: project2,
+  //   description:
+  //     "An application for managing tasks and projects, with features such as task creation, assignment, and progress tracking.",
+  //   technologies: ["HTML", "CSS", "Angular", "Firebase"],
+  // },
+  // {
+  //   title: "Portfolio Website",
+  //   image: project3,
+  //   description:
+  //     "A personal portfolio website showcasing projects, skills, and contact information.",
+  //   technologies: ["HTML", "CSS", "React", "Bootstrap"],
+  // },
+  // {
+  //   title: "Blogging Platform",
+  //   image: project4,
+  //   description:
+  //     "A platform for creating and publishing blog posts, with features like rich text editing, commenting, and user profiles.",
+  //   technologies: ["HTML", "CSS", "Vue.js", "Express", "mySQL"],
+  // },
 ];
 
 export const CONTACT = {
