@@ -3,9 +3,17 @@ import project1 from "../assets/projects/project-1.jpg";
 // import project3 from "../assets/projects/project-3.jpg";
 // import project4 from "../assets/projects/project-4.jpg";
 
-export const HERO_CONTENT = `I am a passionate full stack developer with a knack for crafting robust and scalable web applications. With 5 years of hands-on experience, I have honed my skills in front-end technologies like React and Next.js, as well as back-end technologies like Node.js, MySQL, PostgreSQL, and MongoDB. My goal is to leverage my expertise to create innovative solutions that drive business growth and deliver exceptional user experiences.`;
+export const HERO_CONTENT = `As a NexSys Innovator, I specialize in designing and implementing next-generation solutions that drive operational excellence and enhance organizational efficiency. With a robust background in data analytics, digital twin development, and project management, I integrate diverse systems to create cohesive and innovative workflows. My expertise spans the petrochemical industry, where I leverage my knowledge of engineering, procurement, and construction to deliver impactful results. Passionate about harnessing technology for strategic advantage, I excel at fostering collaboration across teams and translating complex data into actionable insights, ensuring that organizations thrive in an increasingly digital landscape.`;
 
-export const ABOUT_TEXT = `I am a dedicated and versatile full stack developer with a passion for creating efficient and user-friendly web applications. With 5 years of professional experience, I have worked with a variety of technologies, including React, Next.js, Node.js, MySQL, PostgreSQL, and MongoDB. My journey in web development began with a deep curiosity for how things work, and it has evolved into a career where I continuously strive to learn and adapt to new challenges. I thrive in collaborative environments and enjoy solving complex problems to deliver high-quality solutions. Outside of coding, I enjoy staying active, exploring new technologies, and contributing to open-source projects.`;
+export const ABOUT_TEXT = `Namaste! I am a forward-thinking professional with a passion for integrating technology and management to drive organizational success. With a strong foundation in the petrochemical industry, I specialize in data analytics, digital twin development, and project management. My expertise in data management and analysis allows me to transform complex data into actionable insights that inform strategic decisions. 
+
+Currently, I serve as an Assistant Manager, where I lead teams to foster collaboration and streamline processes. My strong negotiation skills and ability to communicate complex concepts effectively have been key in driving projects to completion. Additionally, my talent in presentation design helps ensure that data-driven narratives resonate with stakeholders. 
+
+I am dedicated to continuous learning and staying ahead of industry trends, which fuels my ability to innovate in a rapidly evolving environment. My holistic approach to problem-solving is vital in unlocking potential and achieving long-term growth. 
+
+Outside of my professional life, I enjoy exploring new technologies and methodologies to further enhance my skill set. I am committed to creating impactful solutions that not only address current challenges but also anticipate future needs. 
+
+Thank you for visiting my portfolio. I look forward to connecting and exploring new opportunities for collaboration and innovation.`;
 
 export const EXPERIENCES = [
   {
